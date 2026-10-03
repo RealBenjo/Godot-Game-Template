@@ -1,0 +1,38 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1791013615
+icon.svg::CompressedTexture2D::707144591424315915::1790961042::1790961120::1::::<><><>0<>0<>7c7a628c80493911d4b30b082dc3e869<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1790961173::0::1::::<><><>0<>0<><>::
+::res://addons/::1790961173
+::res://addons/blendot/::1790961173
+blender_session.gd::GDScript::5614300513989943424::1790961173::0::1::::<>Node<><>0<>1<><>::
+blender_setup.gd::GDScript::8144659081013018990::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+blendot_plugin.gd::GDScript::7866765821193428169::1790961173::0::1::::<>EditorPlugin<><>0<>1<><>::
+cleanup.gd::GDScript::6017784722285431683::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+converter.gd::GDScript::9190102286396933620::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+file_context_menu.gd::GDScript::7522321961910556762::1790961173::0::1::::<>EditorContextMenuPlugin<><>0<>1<><>::
+import_dialog_button.gd::GDScript::1649617076558436348::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+mesh_node_editor.gd::GDScript::1278742770044691124::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+node_to_asset.gd::GDScript::4231726634317579246::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1790961173::0::1::::<><><>0<>0<><>::
+references.gd::GDScript::3734324974195360911::1790961173::0::1::::<>RefCounted<><>0<>1<><>::
+scene_context_menu.gd::GDScript::193156517693431908::1790961173::0::1::::<>EditorContextMenuPlugin<><>0<>1<><>::
+::res://addons/blendot/blender/::1790961173
+::res://addons/blendot/icons/::1790961173
+blendot_logo.png::CompressedTexture2D::2615433158738249867::1790961173::1790961173::1::::<><><>0<>0<>6642d9cc6a927247b835c1b407b097a8<>res://.godot/imported/blendot_logo.png-636c793b79ba2e6b8aa5f0c9cfc941c2.ctex::
+blendot_menu.png::CompressedTexture2D::8929470122591432029::1790961173::1790961173::1::::<><><>0<>0<>a306f54c1cb6a5895e15384b85597a10<>res://.godot/imported/blendot_menu.png-34ce3953cef356da343b57f0e4df4730.ctex::
+::res://graphics/::1790961593
+::res://resources/::1790961225
+::res://scenes/::1790961042
+::res://scenes/game controller/::1790961792
+game_controller.tscn::PackedScene::312450061657702132::1790961792::0::1::::<><><>0<>0<><>::uid://covi4ch86f8r5::::res://scripts/game controller/GameController.gd
+::res://scenes/menus/::1790961042
+loading_screen.tscn::PackedScene::9043442816996412473::1790961042::0::1::::<><><>0<>0<><>::uid://jevdh3m8v1mh::::res://scripts/menus/loading screen/LoadingScreen.gd
+::res://scripts/::1790961042
+::res://scripts/autoloads/::1790961042
+Globals.gd::GDScript::554177703972566594::1790961042::0::1::::<>Node<><>0<>0<><>::
+SceneManager.gd::GDScript::5280244572183427498::1790961042::0::1::::<>Node<><>0<>0<><>::
+::res://scripts/game controller/::1790961042
+GameController.gd::GDScript::5799374752520646364::1790961042::0::1::::GameControler<>Node<><>0<>0<><>::
+::res://scripts/menus/::1790961042
+::res://scripts/menus/loading screen/::1790961042
+LoadingScreen.gd::GDScript::641237929496495679::1790961042::0::1::::LoadingScreen<>Control<><>0<>0<><>::
